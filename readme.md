@@ -14,7 +14,19 @@
 * [(Creative) Coding Resources for Beginners | by Druid | The Link — Art Blocks | Medium](https://medium.com/the-link-art-blocks/creative-coding-resources-for-beginners-5416838e0643)
 * [terkelg/awesome-creative-coding: Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.](https://github.com/terkelg/awesome-creative-coding)
 * [Programação criativa: arte feita em código | co.liga](https://coliga.digital/cursos/programacao-criativa-arte-feita-em-codigo)
-* [Art Blocks Year in Review. We’ve made it to the end of 2021, and… | by Druid | The Link — Art Blocks | Dec, 2021 | Medium](https://medium.com/the-link-art-blocks/art-blocks-year-in-review-91955189e2dc) 
+* [Art Blocks Year in Review. We’ve made it to the end of 2021, and… | by Druid | The Link — Art Blocks | Dec, 2021 | Medium](https://medium.com/the-link-art-blocks/art-blocks-year-in-review-91955189e2dc)
+* [The Art of PNG Glitch](https://ucnv.github.io/pnglitch/)
+* [HashLips/hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine): tool used to create multiple different instances of artworks based on provided layers
+* [Create a Random Generator - Perchance.org ― Perchance](https://perchance.org/welcome) 
+* [ALÉM DO SANDBOX * RANOYA.COM](https://www.ranoya.com/aulas/alemdosandbox/) 
+* [Design de Interfaces * EMENTA * RANOYA.COM](https://interfaces.ranoya.com/ementa/) 
+* [Index of /aulas/ * RANOYA.COM](https://www.ranoya.com/aulas/?nonew=true) 
+* [Nightingale – Medium](https://medium.com/nightingale): The Journal of the Data Visualization Society
+* [Lessons Learned Making My Variable Font | by Thomas Jockin | Type Thursday | Medium](https://medium.com/type-thursday/lessons-learned-making-my-variable-font-139c3ab60813) 
+* [v3ga/computer_history: A set of links related to computer & code history](https://github.com/v3ga/computer_history) 
+* [cables](https://cables.gl/): visual programming with cables
+* [Tiler](https://code2art.jetbrains.com/): JetBrain's tile surface maker
+* [goabstract/Awesome-Design-Tools: The best design tools and plugins for everything 👉](https://github.com/goabstract/Awesome-Design-Tools)
 
 
 ## Contents
