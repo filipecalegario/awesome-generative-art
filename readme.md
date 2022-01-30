@@ -3,6 +3,9 @@
 
 > Manually curated collection of Generative Art resources, tools and shiny things.
 
+## Inbox (things to organize)
+* https://play.ertdfgcvb.xyz/: This playground is an attempt of a browser-based live-code environment with text-only output.
+
 
 ## Contents
 
