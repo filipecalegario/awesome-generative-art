@@ -26,7 +26,10 @@
 * [v3ga/computer_history: A set of links related to computer & code history](https://github.com/v3ga/computer_history) 
 * [cables](https://cables.gl/): visual programming with cables
 * [Tiler](https://code2art.jetbrains.com/): JetBrain's tile surface maker
-* [goabstract/Awesome-Design-Tools: The best design tools and plugins for everything 👉](https://github.com/goabstract/Awesome-Design-Tools)
+* [goabstract/Awesome-Design-Tools: The best design tools and plugins for everything](https://github.com/goabstract/Awesome-Design-Tools)
+* [Artigo CIDI 2021: Design Generativo e Design da Informação: uma aproximação necessária | Matheus Dantas de Moraes Almeida, Ana Carolina Kalume Maranhão](http://pdf.blucher.com.br.s3-sa-east-1.amazonaws.com/designproceedings/cidiconcic2021/091-353028-CIDI-Tecnologia.pdf): boa classificação introdutória para sistemas gerativos
+
+
 
 
 ## Contents
