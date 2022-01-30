@@ -28,6 +28,7 @@
 * [Tiler](https://code2art.jetbrains.com/): JetBrain's tile surface maker
 * [goabstract/Awesome-Design-Tools: The best design tools and plugins for everything](https://github.com/goabstract/Awesome-Design-Tools)
 * [Artigo CIDI 2021: Design Generativo e Design da Informação: uma aproximação necessária | Matheus Dantas de Moraes Almeida, Ana Carolina Kalume Maranhão](http://pdf.blucher.com.br.s3-sa-east-1.amazonaws.com/designproceedings/cidiconcic2021/091-353028-CIDI-Tecnologia.pdf): boa classificação introdutória para sistemas gerativos
+* [A History of Parametric – Daniel Davis](https://www.danieldavis.com/a-history-of-parametric/) 
 
 
 
