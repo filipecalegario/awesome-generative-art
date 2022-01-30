@@ -5,6 +5,16 @@
 
 ## Inbox (things to organize)
 * https://play.ertdfgcvb.xyz/: This playground is an attempt of a browser-based live-code environment with text-only output.
+* [AB 101: Historical Figures in Generative Art — A. Michael Noll | by Druid | The Link — Art Blocks | Jan, 2022 | Medium](https://medium.com/the-link-art-blocks/ab-101-historical-figures-in-generative-art-a-michael-noll-5a23ea78ac41)
+* [AB 101: Historical Figures in Generative Art — Vera Molnár | by Druid | The Link — Art Blocks | Jan, 2022 | Medium](https://medium.com/the-link-art-blocks/ab-101-historical-figures-in-generative-art-vera-moln%C3%A1r-b2c5f64fccd8)
+* [AB 101: Historical Figures in Generative Art — Frieder Nake | by Druid | The Link — Art Blocks | Jan, 2022 | Medium](https://medium.com/the-link-art-blocks/ab-101-historical-figures-in-generative-art-frieder-nake-869a2d536607)
+* [AB 101: Historical Figures in Generative Art — Georg Nees | by Druid | The Link — Art Blocks | Dec, 2021 | Medium](https://medium.com/the-link-art-blocks/ab-101-historical-figures-in-generative-art-georg-nees-6b006e62126a)
+* [AB 101: First Wave of Generative Artists | by Druid | The Link — Art Blocks | Medium](https://medium.com/the-link-art-blocks/ab-101-first-wave-of-generative-artists-dd56c91c8f54)
+* [AB 101: #0 — Defining the type of art on Art Blocks | by Druid | The Link — Art Blocks | Medium](https://medium.com/the-link-art-blocks/ab-101-0-defining-the-type-of-art-on-art-blocks-b7a3af6f5b8c)
+* [(Creative) Coding Resources for Beginners | by Druid | The Link — Art Blocks | Medium](https://medium.com/the-link-art-blocks/creative-coding-resources-for-beginners-5416838e0643)
+* [terkelg/awesome-creative-coding: Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.](https://github.com/terkelg/awesome-creative-coding)
+* [Programação criativa: arte feita em código | co.liga](https://coliga.digital/cursos/programacao-criativa-arte-feita-em-codigo)
+* [Art Blocks Year in Review. We’ve made it to the end of 2021, and… | by Druid | The Link — Art Blocks | Dec, 2021 | Medium](https://medium.com/the-link-art-blocks/art-blocks-year-in-review-91955189e2dc) 
 
 
 ## Contents
