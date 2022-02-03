@@ -4,6 +4,7 @@
 > Manually curated collection of Generative Art resources, tools and shiny things.
 
 ## Inbox (things to organize)
+* [The Lasting Lessons of John Conway’s Game of Life - The New York Times](https://www.nytimes.com/2020/12/28/science/math-conway-game-of-life.html) 
 * https://play.ertdfgcvb.xyz/: This playground is an attempt of a browser-based live-code environment with text-only output.
 * [AB 101: Historical Figures in Generative Art — A. Michael Noll | by Druid | The Link — Art Blocks | Jan, 2022 | Medium](https://medium.com/the-link-art-blocks/ab-101-historical-figures-in-generative-art-a-michael-noll-5a23ea78ac41)
 * [AB 101: Historical Figures in Generative Art — Vera Molnár | by Druid | The Link — Art Blocks | Jan, 2022 | Medium](https://medium.com/the-link-art-blocks/ab-101-historical-figures-in-generative-art-vera-moln%C3%A1r-b2c5f64fccd8)
