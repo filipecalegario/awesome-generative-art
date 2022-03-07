@@ -4,6 +4,7 @@
 > Manually curated collection of Generative Art resources, tools and shiny things.
 
 ## Inbox (things to organize)
+* [Slopes | Tinkersynth](https://tinkersynth.com/) 
 * [Books / Processing.org](https://processing.org/books): interesting collection of books that use Processing as a tool
 * [Livro: O Código Transcendente by Mateus Paresqui Berruezo PT-BR](https://codigotranscendente.github.io/livro/livro/lindex.html) 
 * [The Lasting Lessons of John Conway’s Game of Life - The New York Times](https://www.nytimes.com/2020/12/28/science/math-conway-game-of-life.html) 
