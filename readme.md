@@ -4,6 +4,7 @@
 > Manually curated collection of Generative Art resources, tools and shiny things.
 
 ## Inbox (things to organize)
+* [Paper: What is Generative Art? Complexity Theory as a Context for Art Theory](http://www.philipgalanter.com/downloads/ga2003_paper.pdf)
 * [Slopes | Tinkersynth](https://tinkersynth.com/) 
 * [Books / Processing.org](https://processing.org/books): interesting collection of books that use Processing as a tool
 * [Livro: O Código Transcendente by Mateus Paresqui Berruezo PT-BR](https://codigotranscendente.github.io/livro/livro/lindex.html) 
