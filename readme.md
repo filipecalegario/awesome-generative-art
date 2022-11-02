@@ -4,6 +4,7 @@
 > Manually curated collection of Generative Art resources, tools and shiny things.
 
 ## Inbox (things to organize)
+* [🔥🔥🔥] [(20) Samuel Arbesman on Twitter: "Emergent Microcosms 🌎💻 Time to think about snippets of computer code that can generate complex + delightful virtual worlds. This playful approach to emergence—algorithms that can unfurl entire virtual universes—are essentially “Emergent Microcosms” 🧵 1/ https://t.co/Nz7lNAR7WD" / Twitter](https://twitter.com/arbesman/status/1587456000856133633)
 * [Paper: What is Generative Art? Complexity Theory as a Context for Art Theory](http://www.philipgalanter.com/downloads/ga2003_paper.pdf)
 * [Slopes | Tinkersynth](https://tinkersynth.com/) 
 * [Books / Processing.org](https://processing.org/books): interesting collection of books that use Processing as a tool
